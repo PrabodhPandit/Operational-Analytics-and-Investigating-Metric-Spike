@@ -44,4 +44,4 @@ This table includes one row per event, where an event is an action that a user h
 Table-3: email_events
 This table contains events specific to the sending of emails. It is similar in structure to the events table above.
 
-Link to various filesrelated to project : [Operation Analytics](https://drive.google.com/drive/folders/1ae04bIINDkKp4s_8hz0LCZezgWG6ia08?usp=drive_link/)
+Link to various files related to project : [Operation Analytics](https://drive.google.com/drive/folders/1ae04bIINDkKp4s_8hz0LCZezgWG6ia08?usp=drive_link/)
