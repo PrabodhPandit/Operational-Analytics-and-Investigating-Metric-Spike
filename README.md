@@ -34,7 +34,7 @@ User Engagement: To measure the activeness of a user. Measuring if the user find
 User Growth: Amount of users growing over time for a product. Calculate the user growth for product?\
 Weekly Retention: Users getting retained weekly after signing-up for a product. Calculate the weekly retention of users-sign up cohort?\
 Weekly Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service weekly. Calculate the weekly engagement per device?\
-Email Engagement: Users engaging with the email service. Calculate the email engagement metrics?\
+Email Engagement: Users engaging with the email service. Calculate the email engagement metrics?
 
 The structure of the table with the definition of each column that you must work on is present in the project image\
 Table-1: users\
@@ -42,6 +42,6 @@ This table includes one row per user, with descriptive information about that us
 Table-2: events\
 This table includes one row per event, where an event is an action that a user has taken. These events include login events, messaging events, search events, events logged as users progress through a signup funnel, events around received emails.\
 Table-3: email_events\
-This table contains events specific to the sending of emails. It is similar in structure to the events table above.\
+This table contains events specific to the sending of emails. It is similar in structure to the events table above.
 
 Link to various files related to project : [Operation Analytics](https://drive.google.com/drive/folders/1ae04bIINDkKp4s_8hz0LCZezgWG6ia08?usp=drive_link/)
