@@ -18,13 +18,13 @@ Percentage share of each language: Calculate the percentage share of each langua
 Duplicate rows: Let’s say you see some duplicate rows in the data. How will you display duplicates from the table?
 
 Below is the structure of the table with the definition of each column that you must work on:
-Table-1: job_data
-job_id: unique identifier of jobs
-actor_id: unique identifier of actor
-event: decision/skip/transfer
-language: language of the content
-time_spent: time spent to review the job in seconds
-org: organization of the actor
+Table-1: job_data\
+job_id: unique identifier of jobs\
+actor_id: unique identifier of actor\
+event: decision/skip/transfer\
+language: language of the content\
+time_spent: time spent to review the job in seconds\
+org: organization of the actor\
 ds: date in the yyyy/mm/dd format. It is stored in the form of text and we use presto to run. no need for date function
 ______________________________________________________________________________________________________________________________
 Case Study 2 (Investigating metric spike)
