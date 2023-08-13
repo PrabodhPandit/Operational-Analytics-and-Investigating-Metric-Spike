@@ -17,7 +17,7 @@ Throughput: It is the no. of events happening per second. Let’s say the above 
 Percentage share of each language: Calculate the percentage share of each language in the last 30 days?
 Duplicate rows: Let’s say you see some duplicate rows in the data. How will you display duplicates from the table?
 
-Below is the structure of the table with the definition of each column that you must work on:
+Below is the structure of the table with the definition of each column that you must work on:\
 Table-1: job_data\
 job_id: unique identifier of jobs\
 actor_id: unique identifier of actor\
@@ -29,19 +29,19 @@ ds: date in the yyyy/mm/dd format. It is stored in the form of text and we use p
 ______________________________________________________________________________________________________________________________
 Case Study 2 (Investigating metric spike)
 
-Answer the Following
-User Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service. Calculate the weekly user engagement?
-User Growth: Amount of users growing over time for a product. Calculate the user growth for product?
-Weekly Retention: Users getting retained weekly after signing-up for a product. Calculate the weekly retention of users-sign up cohort?
-Weekly Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service weekly. Calculate the weekly engagement per device?
-Email Engagement: Users engaging with the email service. Calculate the email engagement metrics?
+Answer the Following:\
+User Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service. Calculate the weekly user engagement?\
+User Growth: Amount of users growing over time for a product. Calculate the user growth for product?\
+Weekly Retention: Users getting retained weekly after signing-up for a product. Calculate the weekly retention of users-sign up cohort?\
+Weekly Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service weekly. Calculate the weekly engagement per device?\
+Email Engagement: Users engaging with the email service. Calculate the email engagement metrics?\
 
-The structure of the table with the definition of each column that you must work on is present in the project image
-Table-1: users
-This table includes one row per user, with descriptive information about that user’s account.
-Table-2: events
-This table includes one row per event, where an event is an action that a user has taken. These events include login events, messaging events, search events, events logged as users progress through a signup funnel, events around received emails.
-Table-3: email_events
-This table contains events specific to the sending of emails. It is similar in structure to the events table above.
+The structure of the table with the definition of each column that you must work on is present in the project image\
+Table-1: users\
+This table includes one row per user, with descriptive information about that user’s account.\
+Table-2: events\
+This table includes one row per event, where an event is an action that a user has taken. These events include login events, messaging events, search events, events logged as users progress through a signup funnel, events around received emails.\
+Table-3: email_events\
+This table contains events specific to the sending of emails. It is similar in structure to the events table above.\
 
 Link to various files related to project : [Operation Analytics](https://drive.google.com/drive/folders/1ae04bIINDkKp4s_8hz0LCZezgWG6ia08?usp=drive_link/)
